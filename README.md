@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter 1
+# Nuxt 3 Minimal Starter 2
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
